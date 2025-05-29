@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="10" width="60%"> 
+        <!-- we have the first row -->
+         <!-- it wil contain the table head -->
+          <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+          </tr>
+
+          <!-- we want to have a second row -->
+           <!-- it will contain table data -->
+            <tr>
+                <td>Ian</td>
+                 <td>18</td>
+                 <td>Male</td>
+                </tr>
+        <!-- 3rd row  -->
+         <tr>
+            <td>Mike</td>
+            <td>19</td>
+            <td>Male</td>
+         </tr>
+         <!-- 4th row  -->
+          <tr>
+            <td>Ibrahim</td>
+            <td>18</td>
+            <td>Male</td>
+          </tr>
+                      
+          
+    </table>
+</body>
+</html>
